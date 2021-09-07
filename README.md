@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @stepan11
 - 👀 I’m interested in learnning how to code
 - 🌱 I’m currently learning JavaScript; Node.JS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on SFCC
 - 📫 How to reach me dolhopolyi.s@outlook.com
 
 <!---
